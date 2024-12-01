@@ -1,5 +1,7 @@
 # Halaman Login 
-![alt text](image.png)
+![alt text](https://github.com/Fathir11a/project/blob/main/image/image.png)
+
+
 
 ## Fitur Halaman Login 
 
@@ -61,7 +63,8 @@ Jika login gagal, pesan error ditampilkan di halaman.
 Menggunakan elemen HTML sederhana untuk form input dan tombol, dihias dengan CSS.
 ___
 # Halaman Registrasi
-![alt text](image-1.png)
+![alt text](https://github.com/Fathir11a/project/blob/main/image/image-1.png)
+
 
 ## Fitur Halaman Registrasi
 **Pengguna dapat memasukkan data seperti**:
@@ -156,7 +159,7 @@ ___
 
 Cyber Security Admin Panel adalah antarmuka berbasis web yang memungkinkan admin untuk mengarahkan pengguna ke halaman yang berbeda berdasarkan pilihan yang tersedia. Script ini dibuat menggunakan PHP, HTML, dan CSS dengan desain modern.
 
-![alt text](image-2.png)
+![alt text](https://github.com/Fathir11a/project/blob/main/image/image-2.png)
 
 ## Fitur Utama
 
@@ -212,7 +215,7 @@ ___
 
 Dashboard admin ini dirancang untuk mengelola pengguna dan mengatur peran (role) pengguna dalam sistem. Aplikasi ini memastikan bahwa hanya admin yang memiliki akses ke fungsi-fungsi tertentu. Berikut adalah fitur lengkapnya:
 
-![alt text](image-3.png)
+![alt text](https://github.com/Fathir11a/project/blob/main/image/image-3.png)
 
 ## Fitur Utama
 
@@ -354,9 +357,10 @@ ___
 Aplikasi ini adalah sistem dashboard berbasis web untuk pengguna PT Sekuriti Siber Indonesia. Sistem ini menyediakan fitur manajemen profil, komunikasi melalui pesan, dan informasi layanan keamanan siber.
 
 # image
-## Home ![alt text](image-4.png)
-## Profil ![alt text](image-5.png)
-## Pesan ![alt text](image-6.png)
+## Home ![alt text](https://github.com/user-attachments/assets/ccd87b85-67c1-4730-bdca-c805ab6bf414)
+)
+## Profil ![alt text](https://github.com/Fathir11a/project/blob/main/image/image-5.png)
+## Pesan ![alt text](https://github.com/Fathir11a/project/blob/main/image/image-6.png)
 
 ## Fitur Utama
 
@@ -460,7 +464,7 @@ Aplikasi ini adalah sistem dashboard berbasis web untuk pengguna PT Sekuriti Sib
 
 Skrip PHP ini digunakan untuk mengirim pesan antara pengguna dalam sistem. Skrip ini menangani pengiriman pesan dari pengirim (sender) ke penerima (receiver) dan menyimpannya dalam database.
 
-## Kirim Pesan ![alt text](image-6.png)
+## Kirim Pesan ![alt text](https://github.com/Fathir11a/project/blob/main/image/image-6.png)
 
 ## Fitur Utama
 
@@ -501,6 +505,8 @@ Skrip PHP ini digunakan untuk mengirim pesan antara pengguna dalam sistem. Skrip
 #  Reading Data
 
 Skrip PHP ini memungkinkan pengguna untuk memilih dan menampilkan isi file yang ada pada server, khususnya file dalam direktori yang telah ditentukan. Fitur yang tersedia dalam skrip ini adalah:
+
+![Data](https://github.com/user-attachments/assets/f198ffb6-0f85-44aa-bc09-4e56b519fbe5)
 
 ## Fitur Utama
 
