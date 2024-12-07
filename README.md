@@ -1,9 +1,7 @@
 # Halaman Login 
-image-1.png
+![alt text](image-1.png)
 
 ## Fitur Halaman Login 
-
-
 - **Autentikasi Pengguna**:
 Pengguna dapat login dengan memasukkan username, password, dan email.Script memvalidasi kredensial pengguna terhadap database menggunakan query SQL dengan prepared statement.
 
